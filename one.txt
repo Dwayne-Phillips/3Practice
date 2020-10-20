@@ -1,0 +1,23 @@
+
+one.txt
+
+22 October 2020
+
+This is the first test file.
+
+Some text from Wikipedia.
+
+Stucky is a term used to denote the pairing of Steve 
+Rogers (Captain America) and James Buchanan "Bucky" 
+Barnes (the Winter Soldier), fictional characters appearing in comic 
+books and related media produced by Marvel Comics. It is 
+a manifestation of shipping, a phenomenon in fandom wherein individuals 
+create fan works that depict a romantic or sexual relationship between 
+two characters; Stucky is an example of slash, a 
+genre of fan works that focus on same-sex characters. 
+
+An addition.
+
+Another addition.
+
+

@@ -1,0 +1,19 @@
+
+two.txt
+
+22 October 2020
+
+This is the first test file.
+
+Some text from Wikipedia.
+
+The New Zealand Labour Party, led by incumbent Prime 
+Minister Jacinda Ardern (pictured), wins a majority of seats in 
+the general election.
+
+After Sooronbay Jeenbekov resigns as President of Kyrgyzstan 
+amidst electoral protests, Prime Minister Sadyr Japarov declares 
+himself president and is confirmed by parliament.
+
+A new line.
+

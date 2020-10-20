@@ -1,0 +1,21 @@
+
+two.txt
+
+22 October 2020
+
+This is the first test file.
+
+Some text from Wikipedia.
+
+1740 – Under the terms of the Pragmatic Sanction, 
+Maria Theresa (pictured) assumed the Habsburg throne.
+
+1944 – World War II: Fulfilling a promise he made two 
+years previously, General Douglas MacArthur landed on Leyte 
+to begin the recapture of the Philippines.
+
+1967 – Roger Patterson and Robert Gimlin filmed an 
+unidentified subject, which they claimed was Bigfoot, 
+at Six Rivers National Forest in California.
+
+
