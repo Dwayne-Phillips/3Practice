@@ -9,6 +9,8 @@ d.phillips@computer.org
 
 December 2020
 
+![Dwayne Phillips]("dwaynephillips.jpg")
+
 ## Highlights:
 1.	CIA/DS&T staff employee 1980-2008
 2.	Zel Technologies September 2019 to present
