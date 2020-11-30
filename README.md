@@ -1,5 +1,19 @@
 # Resume for Dwayne Phillips
 
+<img src="dwaynephillips.jpg" alt="Dwayne Phillips' photo" width="196 height=246"/>
+
+## Summary
+
+I have 40 years experience in the Intelligence Community. This includes 28 years as
+an employee of the Central Intelligence Agency. I am an Electrical and Computer
+Engineer by training with a BS, MS, and PhD. I am a technical problem solver
+by trade having worked in all facets of systems engineering and project management.
+I write and have written books and papers (practical and theoretical), proposals,
+acquisition documents, novels, short stories, and songs. I have spoken at
+international conferences.
+
+I know a lot of stuff about a lot of stuff.
+
 ## Contact
 Dwayne Phillips
 
@@ -9,7 +23,7 @@ d.phillips@computer.org
 
 December 2020
 
-<img src="dwaynephillips.jpg" alt="Dwayne Phillips' photo" width="196 height=246"/>
+
 
 ## Highlights:
 1.	CIA/DS&T staff employee 1980-2008
