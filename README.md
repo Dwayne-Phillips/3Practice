@@ -2,28 +2,30 @@
 
 ## Contact
 Dwayne Phillips
+
 Reston, Virginia
+
 d.phillips@computer.org
-(571) 294-8637
+
 December 2020
 
 ## Highlights:
-1	CIA/DS&T staff employee 1980-2008
-2	Zel Technologies September 2019 to present
-3	BAE Systems January 2017-September 2019
-4	ITT Exelis 2009-2013
-5	Intelligent Waves 2015-2016
-6	TS SCI with CI Poly 2017
-7	systems engineering and software engineering
-8	project management and personnel leadership
-9	writing (six books and 100+ papers published)
-10	speaking (spoken at international conferences)
-11	PMP from the PMI
-12	ITIL Foundation
-13	Certified Scrum Master CSM
-14	AWS Certified Solutions Architect - associate
-15	CompTIA Security+
-16	BS, MS, PhD Electrical Engineering
+1.	CIA/DS&T staff employee 1980-2008
+2.	Zel Technologies September 2019 to present
+3.	BAE Systems January 2017-September 2019
+4.	ITT Exelis 2009-2013
+5.	Intelligent Waves 2015-2016
+6.	TS SCI with CI Poly 2017
+7.	systems engineering and software engineering
+8.	project management and personnel leadership
+9.	writing (six books and 100+ papers published)
+10.	speaking (spoken at international conferences)
+11.	PMP from the PMI
+12.	ITIL Foundation
+13.	Certified Scrum Master CSM
+14.	AWS Certified Solutions Architect - associate
+15.	CompTIA Security+
+16.	BS, MS, PhD Electrical Engineering
 
 ## Experience:
 AI/ML Tech technical advisor: Researches topics in AI/ML as applied to DoD, law enforcement, and the IC. Advices senior government and industry persons on developments.
