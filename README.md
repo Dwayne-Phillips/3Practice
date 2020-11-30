@@ -9,7 +9,7 @@ d.phillips@computer.org
 
 December 2020
 
-![Dwayne Phillips' photo](https://github.com/Dwayne-Phillips/3Practice/blob/master/dwaynephillips.jpg =196x246)
+<img src="dwaynephillips.jpg" alt="Dwayne Phillips' photo" width="196 height=246"/>
 
 ## Highlights:
 1.	CIA/DS&T staff employee 1980-2008
