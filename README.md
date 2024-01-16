@@ -27,21 +27,22 @@ December 2020
 
 ## Highlights:
 1.	CIA/DS&T staff employee 1980-2008
-2.	Zel Technologies September 2019 to present
-3.	BAE Systems January 2017-September 2019
-4.	ITT Exelis 2009-2013
-5.	Intelligent Waves 2015-2016
-6.	TS SCI with CI Poly 2017
-7.	systems engineering and software engineering
-8.	project management and personnel leadership
-9.	writing (six books and 100+ papers published)
-10.	speaking (spoken at international conferences)
-11.	PMP from the PMI
-12.	ITIL Foundation
-13.	Certified Scrum Master CSM
-14.	AWS Certified Solutions Architect - associate
-15.	CompTIA Security+
-16.	BS, MS, PhD Electrical Engineering
+2.	Deftec April 2022 to October 2023
+3.	Zel Technologies September 2019 to March 2022
+4.	BAE Systems January 2017-September 2019
+5.	ITT Exelis 2009-2013
+6.	Intelligent Waves 2015-2016
+7.	TS SCI with CI Poly 2017
+8.	systems engineering and software engineering
+9.	project management and personnel leadership
+10.	writing (six books and 100+ papers published)
+11.	speaking (spoken at international conferences)
+12.	PMP from the PMI
+13.	ITIL Foundation
+14.	Certified Scrum Master CSM
+15.	AWS Certified Solutions Architect - associate
+16.	CompTIA Security+
+17.	BS, MS, PhD Electrical Engineering
 
 ## Experience:
 AI/ML Tech technical advisor: Researches topics in AI/ML as applied to DoD, law enforcement, and the IC. Advices senior government and industry persons on developments.
